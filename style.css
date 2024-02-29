@@ -81,8 +81,8 @@
 .color-row{
     width:550px;
     padding:20px;
-    margin: 20px auto;
     display: flex;
+    margin-left: 500px;
     justify-content: space-around;
     gap:40px;
 }
@@ -168,3 +168,4 @@ button{
 .para-1{
     color:rgb(136, 131, 131);
 }
+
